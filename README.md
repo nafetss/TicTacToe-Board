@@ -23,3 +23,7 @@ This is a simple Tic-Tac-Toe game but you play it using `real life board`.
 ## Just to be clear
   This is a side project and it was very fun building it, I always wanted to build something like this, but I will not work
   on this project again. I may build the better version of this like `Ultimate TicTacToe`.
+
+
+## Libraries used
+- `serial`  - `pygame`  - `time`
