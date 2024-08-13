@@ -21,7 +21,6 @@ Using CNC machine and some hand sanding after it. Models for CNC machine are mad
 
 ![iks](https://github.com/user-attachments/assets/05bae522-f92d-4b0a-8104-e5acb1dc0b8c)
 ![ox](https://github.com/user-attachments/assets/98a9fe30-0820-48b8-9e02-c5b603530af4)
-![btm (3)](https://github.com/user-attachments/assets/c38c10f0-106f-42f9-a4a7-0c014dd1c6c9)
 
 ![gif2](https://github.com/user-attachments/assets/2e34fcd0-2c6a-4ad5-ae22-f526b73a7e59)
 
